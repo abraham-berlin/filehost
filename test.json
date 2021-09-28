@@ -1,40 +1,40 @@
 {
     "data": [
     {
-    "id": 1,
+    "mId": 1,
     "likes": 1,
-    "title": "Item 1",
-    "message": "Description 1"
+    "mTitle": "Item 1",
+    "mContent": "Description 1"
     },
     {
-    "id": 2,
-    "likes": 1,
-    "title": "Item 2",
-    "message": "Description 2"
+    "mId": 2,
+    "mLikes": 1,
+    "mTitle": "Item 2",
+    "mContent": "Description 2"
     },
     {
-    "id": 3,
-    "likes": 1,
-    "title": "Item 3",
-    "message": "Description 3"
+    "mId": 3,
+    "mLikes": 1,
+    "mTitle": "Item 3",
+    "mContent": "Description 3"
     },
     {
-    "id": 4,
-    "likes": 1,
-    "title": "Item 4",
-    "message": "Description 4"
+    "mId": 4,
+    "mLikes": 1,
+    "mTitle": "Item 4",
+    "mContent": "Description 4"
     },
     {
-    "id": 5,
-    "likes": 1,
-    "title": "Item 5",
-    "message": "Description 5"
+    "mId": 5,
+    "mLikes": 1,
+    "mTitle": "Item 5",
+    "mContent": "Description 5"
     },
     {
-    "id": 6,
-    "likes": 1,
-    "title": "Item 6",
-    "message": "Description 6"
+    "mId": 6,
+    "mLikes": 1,
+    "mTitle": "Item 6",
+    "mContent": "Description 6"
         }   
     ]
 }
