@@ -2,7 +2,7 @@
     "data": [
     {
     "mId": 1,
-    "likes": 1,
+    "mLikes": 1,
     "mTitle": "Item 1",
     "mContent": "Description 1"
     },
